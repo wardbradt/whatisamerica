@@ -10,8 +10,10 @@
  - Make entries more than one line
  - Convert data from 'names.txt' and 'comments.txt' to a MySQL database
 
-![](images/wiaheader.png)
-![](images/wiasubmit.png)
+
+![Submission Examples](wardfinal/images/wiaheader.png)
+![Submit Page](wardfinal/images/wiasubmit.png)
+
 
 License
 ----
