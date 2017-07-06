@@ -1,0 +1,40 @@
+/*Navbar*/
+ul.navbar  {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #053c5d;
+	color: white;
+	overflow: hidden;
+	min-width: 1200px;
+}
+li {
+	float: left;
+	color: white;
+	border-right: solid 1px #bbb;
+	font-size: 16px;
+}
+li.active {
+    background-color: #328cc1;
+    color: white;
+}
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 20px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: #328cc1;
+}
+.highlight {
+	background-color: #328cc1;
+}
+#home_link {
+	background-image: url("images/flag.jpg");
+	background-size: cover;
+	width: 70px;
+    height: 46px;
+}
